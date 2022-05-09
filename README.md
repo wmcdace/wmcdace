@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+William McDace - OPS 445 NCC S22
+
 <!--
 **wmcdace/wmcdace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
